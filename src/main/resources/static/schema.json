@@ -1,0 +1,30 @@
+[
+  {
+    "mail_id": "0000-0000-0000-0000",
+    "subject": "example",
+    "message": "example",
+    "priority": 3,
+    "sended_at": "00:00:00",
+    "mail": {
+      "sender": "example1@domain.com",
+      "reciever": [
+        "example2@domain.com",
+        "example3@domain.com"
+      ],
+      "folder": "label",
+      "deleted_at": "00:00:00"
+    }
+  },
+  {
+    "subject": "example",
+    "message": "example",
+    "priority": 3,
+    "mail": {
+      "sender": "example1@domain.com",
+      "reciever": [
+        "example2@domain.com",
+        "example3@domain.com"
+      ]
+    }
+  }
+]
